@@ -1,16 +1,17 @@
 .read{
   text-decoration: none;
   color: red;
+  font-size: 13px;
 }
 .fa-solid{
   color: red;
 }
 .anchor{
-  color: blue;
+  color: red;
   text-decoration: none;
 }
 .span-footer{
-  color: red;
+  color: blue;
   cursor: pointer;
 }
 
